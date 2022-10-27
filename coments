@@ -1,0 +1,7 @@
+¿Qué es Call Stack?
+	
+Para mí es el utensilio que nos ayuda a mapear o darle seguimiento 
+a la llamada de funciones o métodos que se van ejecutando en nuestro programa. 
+Nos ayuda a saber identificar cuál se invoca primero, qué otra función 
+diferente se llama dentro de esa misma, etc. El call stack nos ayuda a rastrear 
+los movimientos o como se lleva a cabo la funcionalidad de nuestro proyecto. 
